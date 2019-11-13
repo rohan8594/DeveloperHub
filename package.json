@@ -20,7 +20,7 @@
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.4.0",
     "mem": "^5.1.1",
-    "mongoose": "^5.4.4",
+    "mongoose": "^5.7.5",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "save": "^2.4.0",
