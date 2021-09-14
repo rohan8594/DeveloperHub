@@ -24,7 +24,7 @@
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "save": "^2.4.0",
-    "set-value": "^3.0.1",
+    "set-value": "^4.0.1",
     "validator": "^10.11.0"
   },
   "devDependencies": {
